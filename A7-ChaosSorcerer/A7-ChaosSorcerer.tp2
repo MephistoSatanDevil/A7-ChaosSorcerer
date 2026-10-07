@@ -70,7 +70,13 @@ LANGUAGE ~Francais (by Deratiseur, JohnBob)~
          ~A7-ChaosSorcerer/languages/french/spells.tra~
          ~A7-ChaosSorcerer/languages/french/misc.tra~
          ~A7-ChaosSorcerer/languages/french/items.tra~
-
+LANGUAGE ~Simplified Chinese~
+         ~schinese~
+         ~A7-ChaosSorcerer/languages/schinese/setup.tra~
+         ~A7-ChaosSorcerer/languages/schinese/kit.tra~
+         ~A7-ChaosSorcerer/languages/schinese/spells.tra~
+         ~A7-ChaosSorcerer/languages/schinese/misc.tra~
+         ~A7-ChaosSorcerer/languages/schinese/items.tra~
 
 BEGIN @0  // "Chaos Sorcerer" kit
 REQUIRE_PREDICATE (GAME_IS ~bgee bg2ee eet iwdee~) @500 // This component requires BG:EE, BG2:EE, EET or IWD:EE to be installed.
